@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/RealCuf/VCG-Script" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/RealCuf/Lpic-1" target="_blank" rel="noopener noreferrer">
     <picture>
       <img width="200" height=auto src="https://i.ibb.co/6RG40RbW/R-2-removebg-preview.png">
     </picture>
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-Welcome to <a href="https://github.com/RealCuf/DanceWithLinux">DanceWithLinux</a>
+Welcome to <a href="https://github.com/RealCuf/DanceWithLinux">Lpic-1</a>
 </p>
 
 <p align="center">این یک داکیومنت آموزشی است که بر اساس جلسات LPIC-1 با استاد عابدینی تهیه شده و هدف آن <br> جمع‌آوری مطالب درسی به صورت منظم و قابل استفاده برای مرور و مطالعه می‌باشد.</p>
@@ -117,5 +117,5 @@ User Applications / Terminal
 <br>
 
 # Stargazers over time
-![GitHub View](https://views.whatilearened.today/views/github/RealCuf/DanceWithLinux.svg)
-[![Stargazers over time](https://starchart.cc/RealCuf/DanceWithLinux.svg?variant=adaptive)](https://starchart.cc/RealCuf/DanceWithLinux)
+![GitHub View](https://views.whatilearened.today/views/github/RealCuf/Lpic-1.svg)
+[![Stargazers over time](https://starchart.cc/RealCuf/Lpic-1.svg?variant=adaptive)](https://starchart.cc/RealCuf/Lpic-1)
