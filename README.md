@@ -113,3 +113,9 @@ User Applications / Terminal
 > ترمینال نمایشگر است، شل مغز اجرای دستور است، کنسول دسترسی پایه به CLI.
 
 ---
+
+<br>
+
+# Stargazers over time
+![GitHub View](https://views.whatilearened.today/views/github/RealCuf/DanceWithLinux.svg)
+[![Stargazers over time](https://starchart.cc/RealCuf/DanceWithLinux.svg?variant=adaptive)](https://starchart.cc/RealCuf/DanceWithLinux)
